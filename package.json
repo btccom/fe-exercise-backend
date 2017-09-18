@@ -1,0 +1,26 @@
+{
+  "name": "btccom-fe-exercise-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btccom/fe-exercise-backend.git"
+  },
+  "author": "Ruben de Vries <ruben@rubensayshi.com>",
+  "bugs": {
+    "url": "https://github.com/btccom/fe-exercise-backend/issues"
+  },
+  "homepage": "https://github.com/btccom/fe-exercise-backend#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.5.3"
+  }
+}
